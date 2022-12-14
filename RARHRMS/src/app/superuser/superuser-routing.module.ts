@@ -20,7 +20,7 @@ const routes: Routes = [
   {path:'superuserrequests',component:SuperuserrequestsComponent},
 
    {path: 'jobdetails', component:JobdetailsComponent},
-  {path:'visaupdate',component:VisaupdateComponent}
+  {path:'visaupdate',component:VisaupdateComponent},
 
   {path:'addeducation',component:AddeducationComponent},
   {path:'visaupdate',component:VisaupdateComponent},
